@@ -51,7 +51,7 @@ export default function Donate() {
             <h1 className="text-4xl font-bold mb-4 text-red-600">ONLINE DONATION FOR NGO INDIA</h1>
             <p className="text-lg mb-2">Since 2004, Bal Raksha Bharat has been working in several states of India to help children</p>
             <p className="text-lg">get a happy childhood and a bright future.</p>
-            <p className="text-base mt-4">We work in close coordination with government agencies at various levels –</p>
+            <p className="text-base mt-4">We work in close coordination with government agencies at various levels </p>
           </div>
         </div>
 

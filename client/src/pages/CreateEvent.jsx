@@ -33,7 +33,7 @@ export default function CreateEvent() {
           <h2 className="text-2xl font-extrabold text-red-700">Create New Event</h2>
         </div>
         <p className="text-gray-500 mb-6">
-          Fill in the details below to add a new event to your organization’s calendar.
+          Fill in the details below to add a new event to your organizations calendar.
         </p>
         {err && (
           <div className="bg-red-100 border border-red-200 text-red-700 px-4 py-2 rounded mb-4 text-sm">

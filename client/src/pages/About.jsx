@@ -7,7 +7,7 @@ export default function HomePage() {
       {/* Hero Section */}
       <section className="relative w-full h-[70vh]">
         <img
-          src="	https://balrakshabharat.org/wp-content/uploads/2024/06/Creating-Irreversible-positive-1.webp" // Replace with your image path
+          src="	https://balrakshabharat.org/wp-content/uploads/2024/06/Creating-Irreversible-positive-1.webp" 
           alt="Children"
           className="absolute inset-0 w-full h-full object-cover"
         />
@@ -36,10 +36,10 @@ export default function HomePage() {
             childhood: access to health and nutrition, quality education, protection from harm,
             supporting with psychosocial needs and driving a well-rounded development of children.
             Protection from exploitation and access to equal opportunities help children thrive as
-            architects of the nation’s future.
+            architects of the nations future.
           </p>
           <p>
-            We, at Bal Raksha Bharat, pledge to make every impact holistic for India’s children –
+            We, at Bal Raksha Bharat, pledge to make every impact holistic for Indias children 
             but we cannot walk alone, because shaping young lives cannot happen in isolation. It
             calls for unified effort from communities, government and supporters. Collaborating with
             on-ground workers, policymakers and donors, we build an ecosystem where children can
@@ -52,7 +52,7 @@ export default function HomePage() {
             Right from the inception of our work, we have been working right in the middle of
             communities, understanding ground realities, and engineering every initiative based on
             their unique needs. Be it facilitating access to healthcare, bridging gaps in education
-            or providing crucial humanitarian aid during emergencies – we cater to every aspect of
+            or providing crucial humanitarian aid during emergencies  we cater to every aspect of
             child welfare. Beyond short-term relief, we also empower families and communities to be
             more resilient in the face of adversities.
           </p>

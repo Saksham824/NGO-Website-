@@ -96,8 +96,8 @@ export default function Navbar() {
         >
           <Link to="/" className="font-extrabold text-2xl text-red-700 mb-4" onClick={() => setMenuOpen(false)}>NGO</Link>
           <Link to="/" className="text-gray-700 hover:text-red-700 font-semibold transition-colors" onClick={() => setMenuOpen(false)}>Home</Link>
-          <Link to="/events" className="text-gray-700 hover:text-red-700 font-semibold transition-colors" onClick={() => setMenuOpen(false)}>Events</Link>
           <Link to="/about" className="text-gray-700 hover:text-red-700 font-semibold transition-colors" onClick={() => setMenuOpen(false)}>About</Link>
+          <Link to="/events" className="text-gray-700 hover:text-red-700 font-semibold transition-colors" onClick={() => setMenuOpen(false)}>Events</Link>
           <Link to="/contact" className="text-gray-700 hover:text-red-700 font-semibold transition-colors" onClick={() => setMenuOpen(false)}>Contact</Link>
           <Link to="/donate" className="px-5 py-2 bg-gradient-to-r from-red-600 to-orange-500 text-white rounded-full shadow-lg font-bold hover:scale-105 hover:from-orange-500 hover:to-red-500 transition-all duration-200" onClick={() => setMenuOpen(false)}>
             Donate Now

@@ -8,24 +8,24 @@ export default function Footer() {
       <div className="max-w-7xl mx-auto px-6 py-12 grid grid-cols-1 md:grid-cols-3 gap-10">
         {/* NGO Info */}
         <div>
-          <h4 className="font-extrabold text-xl mb-3 tracking-wide text-red-400">NGO Name</h4>
+          <h4 className="font-extrabold text-xl mb-3 tracking-wide text-red-500">NGO Name</h4>
           <p className="text-sm leading-relaxed text-gray-300">
-            Empowering communities through <span className="text-red-300 font-semibold">education</span>, <span className="text-red-300 font-semibold">health</span>, and <span className="text-red-300 font-semibold">sustainable livelihoods</span>.
+            Empowering communities through <span className="text-red-400 font-semibold">education</span>, <span className="text-red-400 font-semibold">health</span>, and <span className="text-red-400 font-semibold">sustainable livelihoods</span>.
           </p>
         </div>
         {/* Contact */}
         <div>
-          <h4 className="font-semibold text-lg mb-3 text-red-300">Contact</h4>
+          <h4 className="font-semibold text-lg mb-3 text-red-500">Contact</h4>
           <p className="text-sm flex items-center gap-2 mb-1">
-            <span className="font-medium">Email:</span> <Link to="mailto:email@ngo.org" className="hover:text-red-400 transition">email@ngo.org</Link>
+            <span className="font-medium">Email:</span> <Link to="mailto:email@ngo.org" className="hover:text-red-400 transition">sakshams824@gmail.com</Link>
           </p>
           <p className="text-sm flex items-center gap-2">
-            <span className="font-medium">Phone:</span> <Link to="tel:+919876543210" className="hover:text-red-400 transition">+91 98765 43210</Link>
+            <span className="font-medium">Phone:</span> <Link to="tel:+919876543210" className="hover:text-red-400 transition">+91 6005310237</Link>
           </p>
         </div>
         {/* Social */}
         <div>
-          <h4 className="font-semibold text-lg mb-3 text-red-300">Follow Us</h4>
+          <h4 className="font-semibold text-lg mb-3 text-red-500">Follow Us</h4>
           <div className="flex gap-5">
             <Link
               to="https://twitter.com/"

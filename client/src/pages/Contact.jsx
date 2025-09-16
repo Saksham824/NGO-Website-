@@ -36,7 +36,7 @@ export default function Contact() {
           Contact Us
         </h1>
         <p className="text-lg text-gray-700 mb-6">
-          Have questions, want to collaborate, or need support? We’re here for you!
+          Have questions, want to collaborate, or need support? We are here for you!
         </p>
         <div className="flex justify-center gap-4 mb-4">
           <Link to="#" className="text-blue-600 hover:text-red-800 text-2xl transition"><FaFacebook /></Link>
@@ -117,17 +117,17 @@ export default function Contact() {
           <div className="bg-red-50/80 shadow-xl rounded-3xl p-8 space-y-6 border border-red-100">
             <h2 className="text-2xl font-bold text-red-700">Get in Touch</h2>
             <p className="text-gray-600">
-              We’re here to answer your questions and hear your ideas.
+              We are here to answer your questions and hear your ideas.
             </p>
             <div className="space-y-4">
               <p className="flex items-center gap-3 text-gray-700">
-                <FaMapMarkerAlt className="text-red-600" /> 123 NGO Street, City, Country
+                <FaMapMarkerAlt className="text-red-600" /> Govindsar(Kathua), Jammu, India
               </p>
               <p className="flex items-center gap-3 text-gray-700">
-                <FaEnvelope className="text-red-600" /> contact@ngo.org
+                <FaEnvelope className="text-red-600" /> sakshams824@gmail.com
               </p>
               <p className="flex items-center gap-3 text-gray-700">
-                <FaPhoneAlt className="text-red-600" /> +91 98765 43210
+                <FaPhoneAlt className="text-red-600" /> +91 6005310237
               </p>
             </div>
             <div className="flex gap-4 mt-6">
